@@ -1,0 +1,36 @@
+
+Fighting Money Laundering With Statistics and Machine Learning
+
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:25.January.2023
+
+Fighting_Money_Laundering
+
+
+fighting_money_laundering
+
+
+
+(i) client risk profiling and (ii) suspicious behavior flagging
+
+
+
+predict_money_laundering
+
+
+Fid	
+AccOpenDate	
+CustomerId	
+Surname	
+CreditScore	
+Geography	
+Gender	
+Age	
+Tenure	
+Balance	
+NumOfProducts	
+HasCrCard	
+IsActiveMember	
+EstimatedSalary
+Prediction
